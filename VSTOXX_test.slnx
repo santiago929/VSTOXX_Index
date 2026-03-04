@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="VSTOXX_test/VSTOXX_test.vcxproj" Id="5b5d3843-8dcb-401a-a039-17f3c1c88b7f" />
+</Solution>
